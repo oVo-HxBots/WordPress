@@ -20,16 +20,16 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'databasename' );
+define( 'DB_NAME', 'ks406989/wordpress' );
 
 /** Database username */
-define( 'DB_USER', 'databaseuser' );
+define( 'DB_USER', 'ks406989' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'password' );
+define( 'DB_PASSWORD', 'v2_3tLcb_xrwFdK7jdX2X62CPq49YMcm' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'db.bit.io' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
