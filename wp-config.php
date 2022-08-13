@@ -29,7 +29,7 @@ define( 'DB_USER', 'ks406989' );
 define( 'DB_PASSWORD', 'v2_3tLcb_xrwFdK7jdX2X62CPq49YMcm' );
 
 /** Database hostname */
-define( 'DB_HOST', 'db.bit.io' );
+define( 'DB_HOST', 'db.bit.io:5432' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
